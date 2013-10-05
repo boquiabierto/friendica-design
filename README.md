@@ -15,7 +15,7 @@ The current logo is cute. But the essence is not it’s cuteness nor it’s swed
 
 I’ve tried hard to work out this essence and think the proposal recovers it. 
 
-[friendica-logo](logo/use/friendica_logo_black_600.png)
+![friendica-logo](logo/use/friendica_logo_black_600.png)
 
 The “connection” is made visually more firm with a “[Dovetail joint](http://en.wikipedia.org/wiki/Dovetail_joint)”-like assembling known from woodworking. The solution solves some logo-must-have:
 - **It’s legible**. It’s clearly an “F” but you immediately see also the upside-down one because of its characteristic form and also because the upside-down-F is actually the filled part of the logo.
